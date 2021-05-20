@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+    margin-top: 10vh;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
